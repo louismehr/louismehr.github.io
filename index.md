@@ -1,8 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/louismehr/louismehr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project Management
 
 #Content
 ##Utility #1
@@ -12,7 +8,30 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ##Utility #5
 ##Utility #6
 
+Project Management
+Utilities
+Projects
 
+Interests [in no particular order]
+Tents
+Sewing Machines.  Lovely.
+Apple Mac Pro….  a work of art.
+Statistics and Bayesian Inference.
+Forecasting.  What could be better than predicting the future?
+Geneaology.
+Bikes.
+Steel framed retro.
+Beach riding.
+Sportives.
+Statistical modelling.
+Books.
+Predicting football scores using Stan.
+How to buy a cheap sewing machine.
+
+
+You can use the [editor on GitHub](https://github.com/louismehr/louismehr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
