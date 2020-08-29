@@ -9,11 +9,11 @@
 ##Utility #3 Jira ticket effort distribution by team
 ![Image of RTree003](tree002.jpg)
 ##Utility #4 Jira 
-![Image of RTree004](tree002.jpg)
+![Image of RTree004](tree003.jpg)
 ##Utility #5
-![Image of RTree005](tree002.jpg)
+![Image of RTree005](tree004.jpg)
 ##Utility #6
-![Image of RTree002](tree002.jpg)
+![Image of RTree002](tree005.jpg)
 ##Utility #7
 ![Image of RTree002](tree002.jpg)
 ##Utility #8
