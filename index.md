@@ -7,7 +7,7 @@
 ##Utility #2 Jira ticket hierarchy viewer - flat view
 ![Image of RTree002](tree002.jpg)
 ##Utility #3 Jira ticket effort distribution by team
-![Image of RTree003](tree002.jpg)
+![Image of RTree003](tree003a.jpg)
 ##Utility #4 Jira 
 ![Image of RTree004](tree003.jpg)
 ##Utility #5
