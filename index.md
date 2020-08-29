@@ -1,14 +1,14 @@
 ## Project Management
 
-#Content
+#Utilities
 
-##Utility #1 Project Management
+##Utility #1 Jira ticket hierarchy viewer - radial view
 ![Image of RTree001](tree001.jpg)
-##Utility #2
+##Utility #2 Jira ticket hierarchy viewer - flat view
 ![Image of RTree002](tree002.jpg)
-##Utility #3
+##Utility #3 Jira ticket effort distribution by team
 ![Image of RTree003](tree002.jpg)
-##Utility #4
+##Utility #4 Jira 
 ![Image of RTree004](tree002.jpg)
 ##Utility #5
 ![Image of RTree005](tree002.jpg)
