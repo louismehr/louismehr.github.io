@@ -7,7 +7,8 @@
 ##Utility #2 Jira ticket hierarchy viewer - flat view
 ![Image of RTree002](tree002.jpg)
 ##Utility #3 Jira ticket effort distribution by team
-![Image of RTree003](tree003a.jpg)
+![Image of RTree003](tree003a.jpg) 
+
 ##Utility #4 Jira 
 ![Image of RTree004](tree003.jpg)
 ##Utility #5
@@ -19,7 +20,7 @@
 ##Utility #8
 ![Image of RTree002](tree007.jpg)
 ##Utility #9
-![Image of RTree002](tree002.jpg)
+![Image of RTree002](tree009.jpg)
 Project Management
 Utilities
 Projects
