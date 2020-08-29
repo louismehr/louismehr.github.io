@@ -25,18 +25,18 @@ Utilities
 Projects
 
 #Interests [in no particular order]
-Tents
-Sewing Machines.  Lovely.
-Apple Mac Pro….  a work of art.
-Statistics and Bayesian Inference.
-Forecasting.  What could be better than predicting the future?
-Geneaology.
-Bikes.
-Steel framed retro.
-Beach riding.
-Sportives.
-Statistical modelling.
-Books.
-Predicting football scores using Stan.
-How to buy a cheap sewing machine.
+##Tents
+##Sewing Machines.  Lovely.
+##Apple Mac Pro….  a work of art.
+##Statistics and Bayesian Inference.
+##Forecasting.  What could be better than predicting the future?
+##Geneaology.
+##Bikes.
+##Steel framed retro.
+##Beach riding.
+##Sportives.
+##Statistical modelling.
+##Books.
+##Predicting football scores using Stan.
+##How to buy a cheap sewing machine.
 
