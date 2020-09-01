@@ -34,13 +34,13 @@ Projects
 
 ##Tents
 
-##Sewing Machines.  Lovely.
+##Sewing Machines.   
 
-##Apple Mac Pro….  a work of art.
+##Apple Mac Pro….  
 
 ##Statistics and Bayesian Inference.
 
-##Forecasting.  What could be better than predicting the future?
+##Forecasting.   
 
 ##Geneaology.
 
