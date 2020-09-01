@@ -21,6 +21,9 @@
 ![Image of RTree002](tree007.jpg)
 ## Utility #9 Monte Carlo Simulation of effort distribution
 ![Image of RTree002](tree009.jpg)
+## Diagram #10 Product Lifecycle
+![Image of RTree002](tree010.jpg)
+
 
 ************************************
 Project Management
