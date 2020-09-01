@@ -23,40 +23,10 @@
 ![Image of RTree002](tree009.jpg)
 ## Diagram #10 Product Lifecycle
 ![Image of RTree002](tree010.jpg)
+## Diagram #11 Robot Arm
+![Image of RTree002](tree011.jpg)
 
 
-************************************
-Project Management
-Utilities
-Projects
 
-#Interests [in no particular order]
 
-##Tents
-
-##Sewing Machines.   
-
-##Apple Mac Pro….  
-
-##Statistics and Bayesian Inference.
-
-##Forecasting.   
-
-##Geneaology.
-
-##Bikes.
-
-##Steel framed retro.
-
-##Beach riding.
-
-##Sportives.
-
-##Statistical modelling.
-
-##Books.
-
-##Predicting football scores using Stan.
-
-##How to buy a cheap sewing machine.
 
