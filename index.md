@@ -23,7 +23,7 @@
 ![Image of RTree002](tree009.jpg)
 ## Diagram #10 Product Lifecycle
 ![Image of RTree002](tree010.jpg)
-## Diagram #11 Robot Arm
+## Diagram #11 Welding Robot
 ![Image of RTree002](tree011.jpg)
 
 
