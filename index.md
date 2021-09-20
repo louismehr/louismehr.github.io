@@ -28,7 +28,7 @@
 ## Diagram #12 Belt Slitting Machine
 ![Image of RTree002](tree012.jpg)
 ## Diagram #13 Welding Robot #2
-![Image of RTree002](tree013.jpg)
+![Image of RTree002](WeldingRobot2.jpg)
 
 
 
