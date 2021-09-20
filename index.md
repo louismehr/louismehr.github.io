@@ -23,10 +23,12 @@
 ![Image of RTree002](tree009.jpg)
 ## Diagram #10 Product Lifecycle
 ![Image of RTree002](tree010.jpg)
-## Diagram #11 Welding Robot
+## Diagram #11 Welding Robot #1
 ![Image of RTree002](tree011.jpg)
-## Diagram #12 Welding Robot
+## Diagram #12 Belt Slitting Machine
 ![Image of RTree002](tree012.jpg)
+## Diagram #13 Welding Robot #2
+![Image of RTree002](tree013.jpg)
 
 
 
