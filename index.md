@@ -22,11 +22,11 @@
 ## Utility #9 Monte Carlo Simulation of effort distribution
 ![Image of RTree002](tree009.jpg)
 
-
-# Hardware 001
-
+# Process 001
 ## Diagram #10 Product Lifecycle
 ![Image of RTree002](tree010.jpg)
+
+# Hardware 001
 ## Diagram #11 Welding Robot #1
 ![Image of RTree002](tree011.jpg)
 ## Diagram #12 Belt Slitting Machine
