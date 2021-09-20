@@ -5,7 +5,7 @@
 # 2/Process
 # 3/Hardware
 
-## Geo001 #1 Geospatial 001
+## Geo001 #1 Geospatial 001 in QGIS
 ![Image of RTree001](tree001.jpg)
 
 
