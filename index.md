@@ -33,7 +33,7 @@
 ![Image of RTree002](ControlPanel1.jpg)
 ## Diagram #15 Encoders
 ![Image of RTree002](Encoders1.jpg)
-## Diagram #16 Encoders
+## Diagram #16 ServoMotorBeltDrive
 ![Image of RTree002](ServoMotors.jpg)
 
 
