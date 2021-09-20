@@ -29,6 +29,13 @@
 ![Image of RTree002](tree012.jpg)
 ## Diagram #13 Welding Robot #2
 ![Image of RTree002](WeldingRobot2.jpg)
+## Diagram #14 Control Panel#1
+![Image of RTree002](ControlPanel1.jpg)
+## Diagram #15 Encoders
+![Image of RTree002](Encoders1.jpg)
+## Diagram #16 Encoders
+![Image of RTree002](ServoMotors.jpg)
+
 
 
 
